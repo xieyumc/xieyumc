@@ -9,7 +9,7 @@
 
 </a> 
 <a href="https://fastapi.tiangolo.com/zh/" target="_blank" rel="noreferrer"> 
-<img src="[https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/fastapi.svg](https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/fastapi.svg)" alt="fastapi" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
 </a> 
 
 
