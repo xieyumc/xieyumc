@@ -12,6 +12,4 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
 </a> 
 
-
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xieyumc&show_icons=true&locale=en" alt="xieyumc" /></p>
+[![xieyu](https://github-readme-stats.vercel.app/api?username=xieyumc)](https://github.com/anuraghazra/github-readme-stats)
